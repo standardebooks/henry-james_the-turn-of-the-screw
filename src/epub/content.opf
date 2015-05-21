@@ -41,11 +41,11 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-james_the-turn-of-the-screw</meta>
 		<dc:creator id="author">Henry James</dc:creator>
 		<meta property="file-as" refines="#author">James, Henry</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_James</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_James</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">John Atkinson Grimshaw</dc:contributor>
 		<meta property="file-as" refines="#artist">Grimshaw, John Atkinson</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Atkinson_Grimshaws</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Atkinson_Grimshaws</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
