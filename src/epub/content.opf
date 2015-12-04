@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-17T06:10:59Z</meta>
+		<meta property="dcterms:modified">2015-12-04T07:44:24Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,6 +37,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/209</dc:source>
 		<dc:source>https://archive.org/stream/turnofthescrew00jamerich</dc:source>
 		<meta property="se:word-count">43377</meta>
+		<meta property="se:reading-ease.flesch">79.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Turn_of_the_Screw</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-james_the-turn-of-the-screw</meta>
 		<dc:creator id="author">Henry James</dc:creator>
