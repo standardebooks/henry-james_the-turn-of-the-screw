@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+section[epub|type~="prologue"]{
+	margin-top: 8em;
+}
+
 section[epub|type~="prologue"] h2{
-	visibility: hidden;
+	display: none;
 }
