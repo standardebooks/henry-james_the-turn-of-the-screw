@@ -26,24 +26,25 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Turn of the Screw</dc:title>
 		<meta property="file-as" refines="#title">Turn of the Screw, The</meta>
 		<dc:subject id="subject-1">Governesses--Fiction</dc:subject>
 		<dc:subject id="subject-2">Children--Fiction</dc:subject>
 		<dc:subject id="subject-3">England--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/98031635</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/98031635</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/98031635</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008105308</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85023446</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A governess moves in to a haunted manor.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of the most famous ghost stories in literature, &lt;i&gt;The Turn of the Screw&lt;/i&gt; earned its place in the annals of influential English novellas not for its qualities as a gothic ghost story, but rather for the many complex and subtle ways the reader can come to opposing conclusions as to tale’s very nature. Are the ghosts the governess sees real, or are they figments of her quiet insanity?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Turn of the Screw&lt;/i&gt; was originally published as a serial, and later went through many revisions by James himself. Though there aren’t any overt suggestion that James intended his novella to be anything but a simple ghost story, the ambiguitiy in the narrative has captured the imagination of generations of readers and critics.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/209</dc:source>
 		<dc:source>https://archive.org/details/turnofthescrew00jamerich</dc:source>
