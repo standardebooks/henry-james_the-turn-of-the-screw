@@ -38,8 +38,8 @@
 		<meta property="term" refines="#subject-2">sh85023446</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">A governess moves in to a haunted manor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of the most famous ghost stories in literature, &lt;i&gt;The Turn of the Screw&lt;/i&gt; earned its place in the annals of influential English novellas not for its qualities as a gothic ghost story, but rather for the many complex and subtle ways the reader can come to opposing conclusions as to tale’s very nature. Are the ghosts the governess sees real, or are they figments of her quiet insanity?&lt;/p&gt;
