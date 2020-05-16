@@ -43,7 +43,7 @@
 		<dc:description id="description">A governess moves in to a haunted manor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of the most famous ghost stories in literature, &lt;i&gt;The Turn of the Screw&lt;/i&gt; earned its place in the annals of influential English novellas not for its qualities as a gothic ghost story, but rather for the many complex and subtle ways the reader can come to opposing conclusions as to tale’s very nature. Are the ghosts the governess sees real, or are they figments of her quiet insanity?&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Turn of the Screw&lt;/i&gt; was originally published as a serial, and later went through many revisions by James himself. Though there aren’t any overt suggestion that James intended his novella to be anything but a simple ghost story, the ambiguitiy in the narrative has captured the imagination of generations of readers and critics.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Turn of the Screw&lt;/i&gt; was originally published as a serial, and later went through many revisions by &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;James&lt;/a&gt; himself. Though there aren’t any overt suggestion that James intended his novella to be anything but a simple ghost story, the ambiguity in the narrative has captured the imagination of generations of readers and critics.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/209</dc:source>
